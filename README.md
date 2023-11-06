@@ -50,6 +50,10 @@ Then visit http://..
 
 ### Contributing
 
+Code style (Black formatter?)
+
+Line length (120?)
+
 To run in development mode:
 
 ```shell
