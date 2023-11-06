@@ -9,12 +9,13 @@ URLs
 ### Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contribution Guidelines](#contribution-guidelines)
-6. [License](#license)
-7. [Acknowledgments](#acknowledgments)
+1. [Features](#features)
+1. [Quick start](#quick-start)
+1. [Installation](#installation)
+1. [Usage](#usage)
+1. [Contribution Guidelines](#contribution-guidelines)
+1. [License](#license)
+1. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -31,6 +32,14 @@ URLs
 
 ---
 
+### Quick start
+
+Docker compose
+
+Then visit http://..
+
+---
+
 ### Installation
 
 ---
@@ -39,7 +48,13 @@ URLs
 
 ---
 
-### Contribution Guidelines
+### Contributing
+
+To run in development mode:
+
+git clone https://github.com/...
+docker compose -f docker-compose.dev.yml up -d --build
+<!-- https://github.com/serge-chat/serge/blob/main/docker-compose.dev.yml -->
 
 ---
 
