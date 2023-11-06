@@ -13,7 +13,8 @@ URLs
 1. [Quick start](#quick-start)
 1. [Installation](#installation)
 1. [Usage](#usage)
-1. [Contribution Guidelines](#contribution-guidelines)
+1. [Contributing](#contributing)
+1. [Documentation](#documentation)
 1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
@@ -61,6 +62,12 @@ git clone https://github.com/...
 docker compose -f docker-compose.dev.yml up -d --build
 ```
 <!-- https://github.com/serge-chat/serge/blob/main/docker-compose.dev.yml -->
+
+---
+
+### Documentation
+
+https://about.readthedocs.com/features/
 
 ---
 
