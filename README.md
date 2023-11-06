@@ -52,8 +52,10 @@ Then visit http://..
 
 To run in development mode:
 
+```shell
 git clone https://github.com/...
 docker compose -f docker-compose.dev.yml up -d --build
+```
 <!-- https://github.com/serge-chat/serge/blob/main/docker-compose.dev.yml -->
 
 ---
