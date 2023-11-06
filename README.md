@@ -24,6 +24,11 @@ URLs
 
 ### Features
 
+* User interface
+* Cross-platform
+* Secure
+* API
+
 ---
 
 ### Installation
